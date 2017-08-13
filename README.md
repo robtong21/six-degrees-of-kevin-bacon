@@ -1,6 +1,6 @@
 # 🎥🎥 Six Degrees Of Kevin Bacon: A Movie Trivia App 🎥🎥
 
-Ever hear of the expression "six degrees of separation"? That's a concept that theorizes that any two people in the world are connected by six or fewer acquaintances. [Six Degrees Of Kevin Bacon](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) is a parlour game based on that expression, and this movie trivia app is loosely based on that parlour game.
+Ever hear of the expression [six degrees of separation] (https://en.wikipedia.org/wiki/Six_degrees_of_separation)? That's a concept that theorizes that any two people in the world are connected by six or fewer acquaintances. [Six Degrees Of Kevin Bacon](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) is a parlour game based on that expression, and this movie trivia app is loosely based on that parlour game.
 
 In this app, you are presented with a list of randomly selected movies, one of which is a movie that Kevin Bacon acted in. Your challenge is simple: pick the movie that Kevin Bacon acted in.
 
