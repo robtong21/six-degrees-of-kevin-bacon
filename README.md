@@ -19,9 +19,12 @@ It's the future of writing...available for you to use today.
 Written with React, Redux and DraftJS for the front-end, Firebase for the back-end, and utilizing Rosette & Crossref APIs.
 
 
-## Screenshot
+## Screenshots
 
 ![alt text](https://github.com/robtong21/six-degrees-of-kevin-bacon/blob/master/screenshots/bacon.png?raw=true)
+
+Same game but featuring Scarlett Johansson
+![alt text](https://github.com/robtong21/six-degrees-of-kevin-bacon/blob/master/screenshots/bacon2.png?raw=true)
 
 
 ## Developer
